@@ -1,0 +1,47 @@
+{
+  "profile":{
+    "image":"images/image.jpg",
+    "name":"kusuma",
+    "designation":"student",
+    "college":"MITS",
+    "Group":"CSE",
+    "email":"kusumaanandchowdary143@gmail.com",
+    "Mobileno":"9502841997"
+},
+"career":{
+  "info":"To Achieve my goals"
+},
+ "Education":
+ [
+   {
+   "sno":"1",
+   "Qualification":"B.Tech",
+   "Institute":"MITS",
+   "percentage":"90",
+   "Yearofpassing":"2021"
+ },
+ {
+   "sno":"2",
+   "Qualification":"Intermedate",
+   "Institute":"Narayana Junior college",
+   "percentage":"95",
+   "Yearofpassing":"2017"
+ },
+ {
+   "sno":"3",
+   "Qualification":"SSC",
+   "Institute":"Narayana high school",
+   "percentage":"92",
+   "Yearofpassing":"2015"
+ }
+],
+"Skills":[
+  {
+  "name":"Web Technologies",
+  "info":["HTML,Css,js"]
+},
+{"name":"database",
+  "info":["Jdc","firebase","sql","sqllight"]
+}
+]
+}
